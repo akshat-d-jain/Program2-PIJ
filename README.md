@@ -14,5 +14,5 @@ To run the programs, compile the Java files and execute the Main class.
 javac Main.java
 java Main
 
-javac ArrayList.java
-java ArrayList
+javac Arraylist.java
+java Arraylist
