@@ -13,3 +13,6 @@ To run the programs, compile the Java files and execute the Main class.
 ```bash
 javac Main.java
 java Main
+
+javac ArrayList.java
+java ArrayList
